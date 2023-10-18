@@ -2,7 +2,7 @@
 - The sample program demonstrates the python library [pandas](https://pandas.pydata.org/docs/).
 
 ### 2. How does someone run your program?
-- To run the program input ``python SpreadsheetEditor.py`` in the terminal in the same directory the file is in.
+- To run the program input ``pip install pandas in the terminal, then just do ``python SpreadsheetEditor.py`` in the terminal in the same directory the file is in.
 - Then enter the file name of your ``.csv`` spreadsheet when prompted.
 - if you get an ``ModuleNotFoundError: No module named 'openpyxl'`` error when exporting to Excel then run the command ``pip install openpyx1``
 
